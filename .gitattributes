@@ -1,3 +1,2 @@
+# Ignore Unity .meta files in language stats
 *.meta linguist-vendored
-*.csproj linguist-vendored
-*.sln linguist-vendored
