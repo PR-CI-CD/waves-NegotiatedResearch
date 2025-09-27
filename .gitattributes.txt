@@ -1,3 +1,0 @@
-*.meta linguist-vendored
-*.csproj linguist-vendored
-*.sln linguist-vendored
